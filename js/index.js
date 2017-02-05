@@ -27,7 +27,7 @@ console.log('msPerYear', msPerYear);
 const nycCostPerMs: number = nycCostPerYear / msPerYear;
 console.log('nycCostPerMs', nycCostPerMs);
 
-const trumpStartDate: Date = new Date('January 20, 2017');
+const trumpStartDate: Date = new Date('Jan 20 2017 09:00:00 EST');
 console.log('trumpStartDate', trumpStartDate);
 
 const trumpStartMs: number = trumpStartDate.getTime();
