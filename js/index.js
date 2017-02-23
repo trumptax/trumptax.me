@@ -4,7 +4,9 @@
 const baselineCosts: Array<number> = [
   // mar a logo vacation
   // http://www.politico.com/story/2017/02/trump-mar-lago-taxpayers-234562
-  3000000,
+  // Now three of these:
+  // http://www.cbsnews.com/news/president-trump-mar-a-lago-trips-cost-taxpayers-millions/
+  3000000 * 3,
   // Eric Trump's Uruguay trip
   // http://thehill.com/homenews/administration/317863-eric-trump-uruguay-trip-cost-taxpayers-98k-report
   98000
