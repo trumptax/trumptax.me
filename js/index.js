@@ -9,7 +9,10 @@ const baselineCosts: Array<number> = [
   3000000 * 3,
   // Eric Trump's Uruguay trip
   // http://thehill.com/homenews/administration/317863-eric-trump-uruguay-trip-cost-taxpayers-98k-report
-  98000
+  98000,
+  // Total costs for security before Inauguration
+  // http://nymag.com/daily/intelligencer/2017/01/nyc-trump-bill-usd37-4-million-from-election-to-inauguration.html
+  37400000
 ];
 
 // All individual costs added to a single value:
