@@ -26,5 +26,8 @@
     "flow-bin": "^0.38.0",
     "webpack": "^2.2.0",
     "webpack-dev-server": "^1.16.2"
+  },
+  "dependencies": {
+    "trumptax-calculator": "^1.0.0"
   }
 }
